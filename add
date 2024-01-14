@@ -1,0 +1,160 @@
+          <div class="dropdownmenu1 dropdonwmenu">
+            <ul>
+            <li>
+              <a href="info.html">Information Technology</a>
+            </li>
+            <li>
+              <a href="com.html">Computer Scient</a>
+            </li>
+            <li>
+              <a href="ele.html"></a>
+            </li>
+          </div>
+
+          <a href class="Program-p">Programs</a>
+
+
+
+
+          <div class="lab-p dropdownmeno2 dropdonwmenu">
+            <ul>
+            <li>
+              <a href="com.html">Computer Scient</a>
+            <li>
+              <a href="com.html">Computer Scient</a>
+            </li>
+            <li>
+              <a href="com.html">Computer Scient</a>
+            </li>
+            <li>
+              <a href="com.html">Computer Scient</a>
+            </li>
+            
+          </ul>
+          </div> 
+
+
+
+
+
+
+          .dropdown{
+            display: inline-block;
+          }
+          .nav-p ul{
+            list-style-type: none;
+            background-color: blue;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+          }
+          
+          .nav-p a{
+            color: white;
+            text-decoration: none;
+            padding: 20px;
+            display: block;
+            text-align: center;
+          }
+          .nav-p a:hover{
+            background-color: green;
+          }
+          .nav-p li{
+            float: left;
+          }
+          .dropdown button{
+            background-color: blue;
+            color: white;
+            padding: 22px 20px;
+            border: none;
+            cursor: pointer;
+          }
+          .dropdown a{
+            display: block;
+            color: black;
+            text-decoration: none;
+            padding: 10px 15px;
+          }
+          .dropdown .content{
+            display: none;
+            position: absolute;
+            background-color: rgb(134, 129, 129);
+            min-width: 200px;
+            box-shadow: 2px 2px 5px black;
+          }
+          .dropdown:hover.contet{
+            display: block;
+          }
+          .dropdown:hover {
+            background-color: white;
+          }
+          .dropdown a:hover{
+            background-color: green;
+          }
+
+
+           
+  <div class="a-p">
+    <img src="img/8.jpg" alt="a-p">
+    </div>
+    <nav class="nav-p">
+        <ul>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+          <li>
+            <a href="News.html">News</a>
+          </li>
+          <li>
+            <a href="FacultyMembers.html">Faculty Members</a>
+          </li>
+          <li>
+           <a href="#">Programs</a>
+            <ul class="dropdown">
+              <li><a href="">Information Technology</a></li>
+              <li><a href="">Computer Scient</a></li>
+              <li><a href="">Eletronics and telecomunications</a></li>   
+            </ul>
+          </li>
+          <li>
+            <a href class="comlab-p">Computer labs</a>
+          <ul class="dropdown">
+            <li><a href="">Mutimedia lab</a></li>
+            <li><a href="">Elearning lab</a></li>
+            <li><a href="">Networking lab</a></li>
+            <li><a href="">IT center lab</a></li>
+          </ul>
+          </li>
+        </ul>
+    </nav>
+      <p>ស្វាគមន៍មកកាន់មហាវិទ្យាល័យវិទ្យាសាស្ត្រ និងបច្ចេកវិទ្យានៃសាកលវិទ្យាល័យកម្ពុជា។ សម្រាប់ប្អូនៗសិស្សានុសិស្ស ដែលមានបំណងចង់បន្តការសិក្សាថ្នាក់បរិញ្ញាបត្ររង និងថ្នាក់បរិញ្ញាបត្រ។ សូមចុះឈ្មោះជាមួយយើងឥឡូវនេះ ឬអាចអញ្ជើញមកកាន់សាកលវិទ្យាល័យផ្ទាល់ក៏បាន។
+      </p>
+      <p>
+        Welcome to College of Science and Technology of The University of Cambodia. For everyone who wishes to pursue for any AA and BA degrees of the study programs, please register now or visit the campus of The University of Cambodia.
+      </p>
+      <div class="container-box">
+        <div class="box">
+          <img src="img/1.jpg">
+        </div>
+        <div class="box1">
+          <img src="img/2.jpg">
+        </div>
+        <div class="box2">
+          <img src="img/3.jpg">
+        </div>
+      </div>
+  <h1 style="color:white;background-color:#00008b;">
+        <marquee behavior="scroll" direction="right" scrollamount="6">
+          <img src="img/7.jpg" alt="Assigment 4" style="width:130px;height:50px;">College Science and Technology</marquee></h1>
+          <div class="container-box">    
+            <div class="box">
+              <img src="img/4.jpg">
+            </div>
+            <div class="box1">
+              <img src="img/5.jpg">
+            </div>
+            <div class="box2">
+              <img src="img/6.jpg">
+            </div>
+          </div>
+          <h1 class="p-1">Copyright©The University of Cambodia</h1>
